@@ -1,4 +1,4 @@
-class ResultCep {
+class ResultadoCep {
   final String cep;
   final String logradouro;
   final String complemento;
@@ -6,7 +6,7 @@ class ResultCep {
   final String localidade;
   final String uf;
 
-  ResultCep({
+  ResultadoCep({
     required this.cep,
     required this.logradouro,
     required this.complemento,
@@ -15,8 +15,8 @@ class ResultCep {
     required this.uf,
   });
 
-  factory ResultCep.fromJson(Map<String, dynamic> json) {
-    return ResultCep(
+  factory ResultadoCep.fromJson(Map<String, dynamic> json) {
+    return ResultadoCep(
       cep: json['cep'] ?? '',
       logradouro: json['logradouro'] ?? '',
       complemento: json['complemento'] ?? '',
