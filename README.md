@@ -14,6 +14,20 @@ Este é um aplicativo Flutter desenvolvido como projeto acadêmico para a discip
 
 ---
 
+🛠️ Tecnologias Utilizadas:
+
+- Flutter (Dart)
+
+- API REST (ViaCEP)
+
+- http (requisições Web)
+
+- dart:convert (para decodificação de JSON)
+
+📸 Captura de Tela:
+
+---
+
 ## 🧱 Estrutura de Arquivos
 
 ```bash
@@ -25,3 +39,4 @@ lib/
 │   └── servico_via_cep.dart       # Serviço para consultar a API ViaCEP
 │
 └── main.dart                      # Interface principal e lógica de busca
+
