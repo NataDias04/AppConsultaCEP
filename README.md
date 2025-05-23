@@ -26,6 +26,14 @@ Este é um aplicativo Flutter desenvolvido como projeto acadêmico para a discip
 
 📸 Captura de Tela:
 
+Base do projeto:
+
+![Image](https://github.com/user-attachments/assets/a5f86c3c-b665-452f-ade7-f1f488b59125)
+
+Tela final:
+
+
+
 ---
 
 ## 🧱 Estrutura de Arquivos
